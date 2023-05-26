@@ -1,0 +1,28 @@
+* {
+    background-color: rgb(207, 207, 207);
+}
+
+.name {
+    width: 200px;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.justificado {
+    text-align: justify;
+}
+
+.profile-description {
+    font-size: 19px;
+    font-style: italic;
+}
+
+.image-profile {
+    height: 100px;
+}
+
+.skills {
+    font-style: oblique;
+}
